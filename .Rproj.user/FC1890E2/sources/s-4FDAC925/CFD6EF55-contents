@@ -9,7 +9,7 @@ output:
 website:
   navbar:
     title: "SP"
-    background: dark
+    # background: dark
     left:
       - text: "Home"
         href: index.qmd
