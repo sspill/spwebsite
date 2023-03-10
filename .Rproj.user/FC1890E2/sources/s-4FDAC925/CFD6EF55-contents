@@ -1,11 +1,10 @@
 project:
-  # name: "sharada_website"
   type: website
   output-dir: docs
 
 output:
   html_document:
-  theme: sandstone
+    theme: sandstone
 
 website:
   navbar:
