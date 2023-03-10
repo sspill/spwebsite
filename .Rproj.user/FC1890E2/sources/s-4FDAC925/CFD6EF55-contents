@@ -8,10 +8,11 @@ output:
 
 website:
   navbar:
-      background: dark
-      left:
-        - text: "Home"
-          href: index.qmd
-        - text: "About"
-          href: about.qmd
+    title: "SP"
+    background: dark
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
 
