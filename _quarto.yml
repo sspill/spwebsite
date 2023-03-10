@@ -12,7 +12,7 @@ website:
       background: dark
       left:
         - text: "Home"
-          href: index.rmd
+          href: index.qmd
         - text: "About"
-          href: about.rmd
+          href: about.qmd
 
