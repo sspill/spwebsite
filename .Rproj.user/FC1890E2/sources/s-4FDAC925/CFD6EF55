@@ -1,7 +1,7 @@
 {
     "id": "CFD6EF55",
-    "path": "~/github/spwebsite/_site.yml",
-    "project_path": "_site.yml",
+    "path": "~/github/spwebsite/_quarto.yml",
+    "project_path": "_quarto.yml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,7",
+        "cursorPosition": "3,14",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678473185,
+    "lastKnownWriteTime": 1678475087,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678473185,
+    "last_content_update": 1678475087490,
     "read_only": false,
     "read_only_alternatives": []
 }
