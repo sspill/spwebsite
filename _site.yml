@@ -1,0 +1,14 @@
+name: "sharada_website"
+output_dir: "docs"
+
+output:
+  html_document:
+  theme: sandstone
+
+navbar:
+  left:
+    - text: "Home"
+      href: index.qmd
+    - text: "About"
+      href: about.qmd
+
