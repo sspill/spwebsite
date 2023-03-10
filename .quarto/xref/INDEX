@@ -5,5 +5,8 @@
   "about.qmd": {
     "about.md": "7576ff48",
     "about.html": "9f24799c"
+  },
+  "index.qmd": {
+    "index.html": "7d6aba6a"
   }
 }

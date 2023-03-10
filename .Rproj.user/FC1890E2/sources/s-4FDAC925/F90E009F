@@ -1,7 +1,7 @@
 {
     "id": "F90E009F",
-    "path": "~/github/spwebsite/home.qmd",
-    "project_path": "home.qmd",
+    "path": "~/github/spwebsite/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
@@ -18,14 +18,14 @@
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "0",
-        "rmdVisualModeLocation": "43:0"
+        "rmdVisualModeLocation": "18:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678472197,
+    "lastKnownWriteTime": 1678473565,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678472197999,
+    "last_content_update": 1678473565400,
     "read_only": false,
     "read_only_alternatives": []
 }
